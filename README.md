@@ -33,7 +33,7 @@ The clinic saw a slight drop in registered patients compared to the previous yea
 
 **Readmission Reasons**
 
-Nearly half of all patients were readmitted after discharge. a deeper analysis reviewed the top reasons driving this situations were:
+Nearly half of all patients were readmitted after discharge, however, a deeper analysis reviewed the top reasons behind this outrageous readmission rate at Graceland Clinic,  this reasons were:
 
 - Treatment Toxicity: 173 patients
 - Infection: 162 patients
@@ -41,7 +41,7 @@ Nearly half of all patients were readmitted after discharge. a deeper analysis r
 - Pain Crisis: 155 patients
 - Recurrence: 146 patients
 
-Treatment toxicity being the leading cause of readmission points to a potential gap in post-discharge care or medication management. Together, these five reasons account for 795 readmitted patients.
+Treatment toxicity being the leading cause of readmission points to a potential gap in post discharge care and medication management at the facility, Graceland Clinic executives needs to adress this issue as soon as possible or risk bad reputation. Together, these five reasons account for 795 readmitted patients.
 
 **Patient Demographics**
 
@@ -55,7 +55,7 @@ Age distribution:
 - Young Adults (18 to 29): 702 (43.09%)
 - Older Adults (60+): 276 (16.94%)
 
-Young adults make up the largest age group, which is a notable finding given that cancer is often associated with older populations.
+Young adults make up the largest age group patients at Graceland, which is actually a bit shocking, given the fact that cancer is often associated with older populations.
 
 **Country Breakdown**
 
