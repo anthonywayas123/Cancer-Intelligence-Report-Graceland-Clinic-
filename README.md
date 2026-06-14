@@ -195,7 +195,6 @@ Payment preference is evenly spread, which means the clinic needs to maintain su
 ## Tools Used
 
 - Power BI (Power Query, Data modeling, DAX measures, report design)
-- Note: This is a synthetic dataset. Survival metrics are simulated and may not fully reflect real world clinical outcomes and correlation dependency, However this goes to show my deep analysis skills.
 
 ---
 
